@@ -17,7 +17,7 @@ The following functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="faQSNaz"><a href="//imgur.com/faQSNaz">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="faQSNaz"><a href="//imgur.com/faQSNaz">View post on imgur.com</a></blockquote>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
