@@ -17,7 +17,7 @@ The following functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Image](http://i.imgur.com/a/MmsOu3E)
+<blockquote class="imgur-embed-pub" lang="en" data-id="faQSNaz"><a href="//imgur.com/faQSNaz">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src='http://i.imgur.com/a/MmsOu3E' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
