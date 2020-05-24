@@ -19,6 +19,9 @@ Here's a walkthrough of implemented user stories:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="faQSNaz"><a href="//imgur.com/faQSNaz">View post on imgur.com</a></blockquote>
 
+<img src='https://i.imgur.com/faQSNaz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
