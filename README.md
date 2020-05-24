@@ -23,7 +23,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had a lot of difficulties at first because the version of my Mac was not compatible with Xcode.
+I had a lot of difficulties at first because the version of my Mac was not compatible with Xcode. I found some of the things in the video were outdated, which caused some confusion and issues. Fortunately, I was able to overcome these challenges and finish the basic application :)
 
 ## License
 
